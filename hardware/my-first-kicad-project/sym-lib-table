@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name My_Test_Library)(type Legacy)(uri C:/Users/sr/Desktop/kicad-test-project/libraries/custom-kicad-library-test/My_Test_Library.lib)(options "")(descr ""))
+)
