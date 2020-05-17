@@ -1,24 +1,26 @@
-Repository for KiCAD test project
+Template repositroy for KiCAD projects.
 
 
 
 ## Directories:
 
-* Hardware
+* *hardware*
   * Contains the KiCAD schematic and board files
-* Firmware
+* *firmware*
   * Contains the firmware files etc.
-* Docs
+* *docs*
   * Contains Datasheets etc.
-* Production
+* *production*
   * Contains GERBER files etc.
-* Simulation
+* *simulation*
   * Contains LTSpice files etc.
-* CAD
+* *cad*
   * Contains KiCAD step export, Fusion 360 data etc.
 
-* Libraries
+* *libraries*
   * Contains the custom KiCAD libraries for schematic symbol and pcb footprints
+  * Contains a directory for local libraries
+  * Contains a git-submodule for shared KiCAD library repository
 
 
 
