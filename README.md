@@ -26,4 +26,7 @@ Template repositroy for KiCAD projects.
 
 ## Useful links:
 
-GIT and KiCAD: https://medium.com/inventhub/better-manage-kicad-projects-using-git-8d06e1310af8
+GIT and KiCAD: 
+
+* https://medium.com/inventhub/better-manage-kicad-projects-using-git-8d06e1310af8
+* https://forum.kicad.info/t/library-management-in-kicad-version-5/14636
