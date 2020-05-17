@@ -1,0 +1,3 @@
+[submodule "libraries/custom-kicad-library-test"]
+	path = libraries/custom-kicad-library-test
+	url = https://digety-sr@bitbucket.org/digety-sr/custom-kicad-library-test.git
