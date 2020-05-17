@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name my_Test_Footprint)(type KiCad)(uri C:/Users/sr/Desktop/kicad-test-project/libraries/custom-kicad-library-test/footprints/my_Test_Footprint.pretty)(options "")(descr ""))
+)
